@@ -3,3 +3,17 @@
 
 # Jupyter notebook
 .ipynb_checkpoints
+
+# pdf
+*.pdf
+
+# zip
+*.zip
+
+# imgs
+*.gif
+*.png
+*.jpg
+
+# pycache
+__pycache__/
